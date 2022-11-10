@@ -1,0 +1,1 @@
+token_school_bot = "yor bot's token"
