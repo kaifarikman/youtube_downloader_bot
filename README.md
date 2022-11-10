@@ -1,4 +1,4 @@
-#youtube_downloader_bot
+youtube_downloader_bot
 
 this bot can download music from youtube
 
